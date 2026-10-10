@@ -2,6 +2,8 @@
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-f59e0b?style=flat-square)
 
+**Topics:** `Array` `Math`
+
 [View Problem on LeetCode ↗](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)
 
 ## Solutions

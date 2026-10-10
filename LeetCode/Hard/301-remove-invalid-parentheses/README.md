@@ -2,6 +2,8 @@
 
 ![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-f43f5e?style=flat-square)
 
+**Topics:** `String` `Backtracking` `Breadth-First Search`
+
 [View Problem on LeetCode ↗](https://leetcode.com/problems/remove-invalid-parentheses/)
 
 ## Solutions

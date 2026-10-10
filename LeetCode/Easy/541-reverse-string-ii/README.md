@@ -2,6 +2,8 @@
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-10b981?style=flat-square)
 
+**Topics:** `Two Pointers` `String`
+
 [View Problem on LeetCode ↗](https://leetcode.com/problems/reverse-string-ii/)
 
 ## Solutions

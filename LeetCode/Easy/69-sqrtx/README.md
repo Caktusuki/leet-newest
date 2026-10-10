@@ -2,6 +2,8 @@
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-10b981?style=flat-square)
 
+**Topics:** `Math` `Binary Search` `Newton's Method`
+
 [View Problem on LeetCode ↗](https://leetcode.com/problems/sqrtx/)
 
 ## Solutions

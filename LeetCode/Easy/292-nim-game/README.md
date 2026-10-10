@@ -2,6 +2,8 @@
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-10b981?style=flat-square)
 
+**Topics:** `Math` `Brainteaser` `Minimax` `Game Theory` `Nim Game` `Impartial Game`
+
 [View Problem on LeetCode ↗](https://leetcode.com/problems/nim-game/)
 
 ## Solutions
