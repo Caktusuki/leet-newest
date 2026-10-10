@@ -2,8 +2,6 @@
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-10b981?style=flat-square)
 
-**Topics:** `Database`
-
 [View Problem on LeetCode ↗](https://leetcode.com/problems/average-selling-price/)
 
 ## Solutions
