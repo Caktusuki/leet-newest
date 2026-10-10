@@ -2,8 +2,6 @@
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-10b981?style=flat-square)
 
-**Topics:** `Array` `Math`
-
 [View Problem on LeetCode ↗](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/)
 
 ## Solutions

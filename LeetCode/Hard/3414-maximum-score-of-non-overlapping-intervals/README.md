@@ -2,8 +2,6 @@
 
 ![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-f43f5e?style=flat-square)
 
-**Topics:** `Array` `Binary Search` `Dynamic Programming` `Sorting`
-
 [View Problem on LeetCode ↗](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/)
 
 ## Solutions

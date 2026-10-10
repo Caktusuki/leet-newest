@@ -2,10 +2,10 @@
 
 Automated repository of accepted LeetCode solutions, managed by **LeetSync**.
 
-[![In Repo](https://img.shields.io/badge/In_Repo-151-6366f1?style=flat-square)](#)
-[![Easy](https://img.shields.io/badge/Easy-111-10b981?style=flat-square)](#)
-[![Medium](https://img.shields.io/badge/Medium-36-f59e0b?style=flat-square)](#)
-[![Hard](https://img.shields.io/badge/Hard-4-f43f5e?style=flat-square)](#)
+[![In Repo](https://img.shields.io/badge/In_Repo-171-6366f1?style=flat-square)](#)
+[![Easy](https://img.shields.io/badge/Easy-129-10b981?style=flat-square)](#)
+[![Medium](https://img.shields.io/badge/Medium-37-f59e0b?style=flat-square)](#)
+[![Hard](https://img.shields.io/badge/Hard-5-f43f5e?style=flat-square)](#)
 
 ## 📚 Problems in this repository
 
@@ -161,7 +161,27 @@ Automated repository of accepted LeetCode solutions, managed by **LeetSync**.
 | 2621 | [Sleep](./LeetCode/Easy/2621-sleep/solution.js) | Easy | - | JavaScript |
 | 2652 | [Sum Multiples](./LeetCode/Easy/2652-sum-multiples/solution.java) | Easy | - | Java |
 | 2667 | [Create Hello World Function](./LeetCode/Easy/2667-create-hello-world-function/solution.js) | Easy | - | JavaScript |
+| 2839 | [Check if Strings Can be Made Equal With Operations I](./LeetCode/Easy/2839-check-if-strings-can-be-made-equal-with-operations-i/solution.java) | Easy | - | Java |
+| 2877 | [Create a DataFrame from List](./LeetCode/Easy/2877-create-a-dataframe-from-list/solution.py) | Easy | - | pythondata |
 | 2878 | [Get the Size of a DataFrame](./LeetCode/Easy/2878-get-the-size-of-a-dataframe/solution.py) | Easy | - | pythondata |
+| 2879 | [Display the First Three Rows](./LeetCode/Easy/2879-display-the-first-three-rows/solution.py) | Easy | - | pythondata |
+| 2880 | [Select Data](./LeetCode/Easy/2880-select-data/solution.py) | Easy | - | Pandas |
+| 2881 | [Create a New Column](./LeetCode/Easy/2881-create-a-new-column/solution.py) | Easy | - | Pandas |
+| 2882 | [Drop Duplicate Rows](./LeetCode/Easy/2882-drop-duplicate-rows/solution.py) | Easy | - | Pandas |
+| 2883 | [Drop Missing Data](./LeetCode/Easy/2883-drop-missing-data/solution.py) | Easy | - | Pandas |
+| 2884 | [Modify Columns](./LeetCode/Easy/2884-modify-columns/solution.py) | Easy | - | Pandas |
+| 2885 | [Rename Columns](./LeetCode/Easy/2885-rename-columns/solution.py) | Easy | - | Pandas |
+| 2886 | [Change Data Type](./LeetCode/Easy/2886-change-data-type/solution.py) | Easy | - | Pandas |
+| 2887 | [Fill Missing Data](./LeetCode/Easy/2887-fill-missing-data/solution.py) | Easy | - | Pandas |
+| 2888 | [Reshape Data: Concatenate](./LeetCode/Easy/2888-reshape-data-concatenate/solution.py) | Easy | - | Pandas |
+| 2889 | [Reshape Data: Pivot](./LeetCode/Easy/2889-reshape-data-pivot/solution.py) | Easy | - | Pandas |
+| 2890 | [Reshape Data: Melt](./LeetCode/Easy/2890-reshape-data-melt/solution.py) | Easy | - | Pandas |
+| 2891 | [Method Chaining](./LeetCode/Easy/2891-method-chaining/solution.py) | Easy | - | Pandas |
+| 3079 | [Find the Sum of Encrypted Integers](./LeetCode/Easy/3079-find-the-sum-of-encrypted-integers/solution.java) | Easy | - | Java |
+| 3081 | [Replace Question Marks in String to Minimize Its Value](./LeetCode/Medium/3081-replace-question-marks-in-string-to-minimize-its-value/solution.java) | Medium | - | Java |
+| 3414 | [Maximum Score of Non-overlapping Intervals](./LeetCode/Hard/3414-maximum-score-of-non-overlapping-intervals/solution.java) | Hard | - | Java |
+| 3483 | [Unique 3-Digit Even Numbers](./LeetCode/Easy/3483-unique-3-digit-even-numbers/solution.java) | Easy | - | Java |
+| 3550 | [Smallest Index With Digit Sum Equal to Index](./LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/solution.java) | Easy | - | Java |
 
 ---
 Created with ❤️ using [LeetSync](https://github.com/Caktusuki)

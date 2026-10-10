@@ -2,8 +2,6 @@
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-f59e0b?style=flat-square)
 
-**Topics:** `Hash Table` `String` `Greedy` `Sorting` `Heap (Priority Queue)` `Counting`
-
 [View Problem on LeetCode ↗](https://leetcode.com/problems/replace-question-marks-in-string-to-minimize-its-value/)
 
 ## Solutions
