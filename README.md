@@ -2,9 +2,9 @@
 
 Automated repository of accepted LeetCode solutions, managed by **LeetSync**.
 
-[![In Repo](https://img.shields.io/badge/In_Repo-166-6366f1?style=flat-square)](#)
-[![Easy](https://img.shields.io/badge/Easy-125-10b981?style=flat-square)](#)
-[![Medium](https://img.shields.io/badge/Medium-36-f59e0b?style=flat-square)](#)
+[![In Repo](https://img.shields.io/badge/In_Repo-171-6366f1?style=flat-square)](#)
+[![Easy](https://img.shields.io/badge/Easy-129-10b981?style=flat-square)](#)
+[![Medium](https://img.shields.io/badge/Medium-37-f59e0b?style=flat-square)](#)
 [![Hard](https://img.shields.io/badge/Hard-5-f43f5e?style=flat-square)](#)
 
 ## 📚 Problems in this repository
@@ -23,6 +23,11 @@ Automated repository of accepted LeetCode solutions, managed by **LeetSync**.
 | 14 | [Longest Common Prefix](./LeetCode/Easy/14-longest-common-prefix/solution.java) | Easy | - | Java · Python |
 | 15 | [3Sum](./LeetCode/Medium/15-3sum/solution.java) | Medium | - | Java |
 | 20 | [Valid Parentheses](./LeetCode/Easy/20-valid-parentheses/solution.java) | Easy | - | Java · Python |
+| 21 | [Merge Two Sorted Lists](./LeetCode/Easy/21-merge-two-sorted-lists/solution.py) | Easy | - | Python |
+| 22 | [Generate Parentheses](./LeetCode/Medium/22-generate-parentheses/solution.java) | Medium | - | Java |
+| 26 | [Remove Duplicates from Sorted Array](./LeetCode/Easy/26-remove-duplicates-from-sorted-array/solution.py) | Easy | - | Python |
+| 27 | [Remove Element](./LeetCode/Easy/27-remove-element/solution.py) | Easy | - | Python |
+| 28 | [Find the Index of the First Occurrence in a String](./LeetCode/Easy/28-find-the-index-of-the-first-occurrence-in-a-string/solution.py) | Easy | - | Python |
 | 31 | [Next Permutation](./LeetCode/Medium/31-next-permutation/solution.java) | Medium | - | Java |
 | 32 | [Longest Valid Parentheses](./LeetCode/Hard/32-longest-valid-parentheses/solution.java) | Hard | - | Java |
 | 34 | [Find First and Last Position of Element in Sorted Array](./LeetCode/Medium/34-find-first-and-last-position-of-element-in-sorted-array/solution.java) | Medium | - | Java |
