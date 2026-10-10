@@ -2,8 +2,8 @@
 
 Automated repository of accepted LeetCode solutions, managed by **LeetSync**.
 
-[![In Repo](https://img.shields.io/badge/In_Repo-171-6366f1?style=flat-square)](#)
-[![Easy](https://img.shields.io/badge/Easy-129-10b981?style=flat-square)](#)
+[![In Repo](https://img.shields.io/badge/In_Repo-172-6366f1?style=flat-square)](#)
+[![Easy](https://img.shields.io/badge/Easy-130-10b981?style=flat-square)](#)
 [![Medium](https://img.shields.io/badge/Medium-37-f59e0b?style=flat-square)](#)
 [![Hard](https://img.shields.io/badge/Hard-5-f43f5e?style=flat-square)](#)
 
@@ -58,15 +58,15 @@ Automated repository of accepted LeetCode solutions, managed by **LeetSync**.
 | 141 | [Linked List Cycle](./LeetCode/Easy/141-linked-list-cycle/solution.java) | Easy | - | Java |
 | 162 | [Find Peak Element](./LeetCode/Medium/162-find-peak-element/solution.java) | Medium | - | Java |
 | 169 | [Majority Element](./LeetCode/Easy/169-majority-element/solution.java) | Easy | - | Java |
-| 175 | [Combine Two Tables](./LeetCode/Easy/175-combine-two-tables/solution.sql) | Easy | - | MySQL |
+| 175 | [Combine Two Tables](./LeetCode/Easy/175-combine-two-tables/solution.sql) | Easy | - | SQL |
 | 179 | [Largest Number](./LeetCode/Medium/179-largest-number/solution.java) | Medium | - | Java |
-| 181 | [Employees Earning More Than Their Managers](./LeetCode/Easy/181-employees-earning-more-than-their-managers/solution.sql) | Easy | - | MySQL |
-| 182 | [Duplicate Emails](./LeetCode/Easy/182-duplicate-emails/solution.sql) | Easy | - | MySQL |
-| 183 | [Customers Who Never Order](./LeetCode/Easy/183-customers-who-never-order/solution.sql) | Easy | - | MySQL |
-| 185 | [Department Top Three Salaries](./LeetCode/Hard/185-department-top-three-salaries/solution.sql) | Hard | - | MySQL |
+| 181 | [Employees Earning More Than Their Managers](./LeetCode/Easy/181-employees-earning-more-than-their-managers/solution.sql) | Easy | - | SQL |
+| 182 | [Duplicate Emails](./LeetCode/Easy/182-duplicate-emails/solution.sql) | Easy | - | SQL |
+| 183 | [Customers Who Never Order](./LeetCode/Easy/183-customers-who-never-order/solution.sql) | Easy | - | SQL |
+| 185 | [Department Top Three Salaries](./LeetCode/Hard/185-department-top-three-salaries/solution.sql) | Hard | - | SQL |
 | 189 | [Rotate Array](./LeetCode/Medium/189-rotate-array/solution.java) | Medium | - | Java |
-| 196 | [Delete Duplicate Emails](./LeetCode/Easy/196-delete-duplicate-emails/solution.sql) | Easy | - | MySQL |
-| 197 | [Rising Temperature](./LeetCode/Easy/197-rising-temperature/solution.sql) | Easy | - | MySQL |
+| 196 | [Delete Duplicate Emails](./LeetCode/Easy/196-delete-duplicate-emails/solution.sql) | Easy | - | SQL |
+| 197 | [Rising Temperature](./LeetCode/Easy/197-rising-temperature/solution.sql) | Easy | - | SQL |
 | 202 | [Happy Number](./LeetCode/Easy/202-happy-number/solution.java) | Easy | - | Java |
 | 203 | [Remove Linked List Elements](./LeetCode/Easy/203-remove-linked-list-elements/solution.java) | Easy | - | Java |
 | 206 | [Reverse Linked List](./LeetCode/Easy/206-reverse-linked-list/solution.java) | Easy | - | Java |
@@ -99,14 +99,14 @@ Automated repository of accepted LeetCode solutions, managed by **LeetSync**.
 | 506 | [Relative Ranks](./LeetCode/Easy/506-relative-ranks/solution.java) | Easy | - | Java |
 | 511 | [Game Play Analysis I](./LeetCode/Easy/511-game-play-analysis-i/solution.sql) | Easy | - | SQL |
 | 541 | [Reverse String II](./LeetCode/Easy/541-reverse-string-ii/solution.java) | Easy | - | Java |
-| 570 | [Managers with at Least 5 Direct Reports](./LeetCode/Medium/570-managers-with-at-least-5-direct-reports/solution.sql) | Medium | - | MySQL |
+| 570 | [Managers with at Least 5 Direct Reports](./LeetCode/Medium/570-managers-with-at-least-5-direct-reports/solution.sql) | Medium | - | SQL |
 | 575 | [Distribute Candies](./LeetCode/Easy/575-distribute-candies/solution.java) | Easy | - | Java |
-| 577 | [Employee Bonus](./LeetCode/Easy/577-employee-bonus/solution.sql) | Easy | - | MySQL |
-| 584 | [Find Customer Referee](./LeetCode/Easy/584-find-customer-referee/solution.sql) | Easy | - | MySQL |
-| 586 | [Customer Placing the Largest Number of Orders](./LeetCode/Easy/586-customer-placing-the-largest-number-of-orders/solution.sql) | Easy | - | MySQL |
-| 595 | [Big Countries](./LeetCode/Easy/595-big-countries/solution.sql) | Easy | - | MySQL |
-| 596 | [Classes With at Least 5 Students](./LeetCode/Easy/596-classes-with-at-least-5-students/solution.sql) | Easy | - | MySQL |
-| 607 | [Sales Person](./LeetCode/Easy/607-sales-person/solution.sql) | Easy | - | MySQL |
+| 577 | [Employee Bonus](./LeetCode/Easy/577-employee-bonus/solution.sql) | Easy | - | SQL |
+| 584 | [Find Customer Referee](./LeetCode/Easy/584-find-customer-referee/solution.sql) | Easy | - | SQL |
+| 586 | [Customer Placing the Largest Number of Orders](./LeetCode/Easy/586-customer-placing-the-largest-number-of-orders/solution.sql) | Easy | - | SQL |
+| 595 | [Big Countries](./LeetCode/Easy/595-big-countries/solution.sql) | Easy | - | SQL |
+| 596 | [Classes With at Least 5 Students](./LeetCode/Easy/596-classes-with-at-least-5-students/solution.sql) | Easy | - | SQL |
+| 607 | [Sales Person](./LeetCode/Easy/607-sales-person/solution.sql) | Easy | - | SQL |
 | 608 | [Tree Node](./LeetCode/Medium/608-tree-node/solution.sql) | Medium | - | SQL |
 | 610 | [Triangle Judgement](./LeetCode/Easy/610-triangle-judgement/solution.sql) | Easy | - | SQL |
 | 619 | [Biggest Single Number](./LeetCode/Easy/619-biggest-single-number/solution.sql) | Easy | - | SQL |
@@ -148,7 +148,7 @@ Automated repository of accepted LeetCode solutions, managed by **LeetSync**.
 | 1683 | [Invalid Tweets](./LeetCode/Easy/1683-invalid-tweets/solution.sql) | Easy | - | SQL |
 | 1757 | [Recyclable and Low Fat Products](./LeetCode/Easy/1757-recyclable-and-low-fat-products/solution.sql) | Easy | - | SQL |
 | 1822 | [Sign of the Product of an Array](./LeetCode/Easy/1822-sign-of-the-product-of-an-array/solution.java) | Easy | - | Java |
-| 1934 | [Confirmation Rate](./LeetCode/Medium/1934-confirmation-rate/solution.sql) | Medium | - | MySQL |
+| 1934 | [Confirmation Rate](./LeetCode/Medium/1934-confirmation-rate/solution.sql) | Medium | - | SQL |
 | 1952 | [Three Divisors](./LeetCode/Easy/1952-three-divisors/solution.java) | Easy | - | Java |
 | 2149 | [Rearrange Array Elements by Sign](./LeetCode/Medium/2149-rearrange-array-elements-by-sign/solution.java) | Medium | - | Java |
 | 2160 | [Minimum Sum of Four Digit Number After Splitting Digits](./LeetCode/Easy/2160-minimum-sum-of-four-digit-number-after-splitting-digits/solution.java) | Easy | - | Java |
@@ -162,26 +162,27 @@ Automated repository of accepted LeetCode solutions, managed by **LeetSync**.
 | 2652 | [Sum Multiples](./LeetCode/Easy/2652-sum-multiples/solution.java) | Easy | - | Java |
 | 2667 | [Create Hello World Function](./LeetCode/Easy/2667-create-hello-world-function/solution.js) | Easy | - | JavaScript |
 | 2839 | [Check if Strings Can be Made Equal With Operations I](./LeetCode/Easy/2839-check-if-strings-can-be-made-equal-with-operations-i/solution.java) | Easy | - | Java |
-| 2877 | [Create a DataFrame from List](./LeetCode/Easy/2877-create-a-dataframe-from-list/solution.py) | Easy | - | pythondata |
-| 2878 | [Get the Size of a DataFrame](./LeetCode/Easy/2878-get-the-size-of-a-dataframe/solution.py) | Easy | - | pythondata |
-| 2879 | [Display the First Three Rows](./LeetCode/Easy/2879-display-the-first-three-rows/solution.py) | Easy | - | pythondata |
-| 2880 | [Select Data](./LeetCode/Easy/2880-select-data/solution.py) | Easy | - | Pandas |
-| 2881 | [Create a New Column](./LeetCode/Easy/2881-create-a-new-column/solution.py) | Easy | - | Pandas |
-| 2882 | [Drop Duplicate Rows](./LeetCode/Easy/2882-drop-duplicate-rows/solution.py) | Easy | - | Pandas |
-| 2883 | [Drop Missing Data](./LeetCode/Easy/2883-drop-missing-data/solution.py) | Easy | - | Pandas |
-| 2884 | [Modify Columns](./LeetCode/Easy/2884-modify-columns/solution.py) | Easy | - | Pandas |
-| 2885 | [Rename Columns](./LeetCode/Easy/2885-rename-columns/solution.py) | Easy | - | Pandas |
-| 2886 | [Change Data Type](./LeetCode/Easy/2886-change-data-type/solution.py) | Easy | - | Pandas |
-| 2887 | [Fill Missing Data](./LeetCode/Easy/2887-fill-missing-data/solution.py) | Easy | - | Pandas |
-| 2888 | [Reshape Data: Concatenate](./LeetCode/Easy/2888-reshape-data-concatenate/solution.py) | Easy | - | Pandas |
-| 2889 | [Reshape Data: Pivot](./LeetCode/Easy/2889-reshape-data-pivot/solution.py) | Easy | - | Pandas |
-| 2890 | [Reshape Data: Melt](./LeetCode/Easy/2890-reshape-data-melt/solution.py) | Easy | - | Pandas |
-| 2891 | [Method Chaining](./LeetCode/Easy/2891-method-chaining/solution.py) | Easy | - | Pandas |
+| 2877 | [Create a DataFrame from List](./LeetCode/Easy/2877-create-a-dataframe-from-list/solution.py) | Easy | - | Python |
+| 2878 | [Get the Size of a DataFrame](./LeetCode/Easy/2878-get-the-size-of-a-dataframe/solution.py) | Easy | - | Python |
+| 2879 | [Display the First Three Rows](./LeetCode/Easy/2879-display-the-first-three-rows/solution.py) | Easy | - | Python |
+| 2880 | [Select Data](./LeetCode/Easy/2880-select-data/solution.py) | Easy | - | Python |
+| 2881 | [Create a New Column](./LeetCode/Easy/2881-create-a-new-column/solution.py) | Easy | - | Python |
+| 2882 | [Drop Duplicate Rows](./LeetCode/Easy/2882-drop-duplicate-rows/solution.py) | Easy | - | Python |
+| 2883 | [Drop Missing Data](./LeetCode/Easy/2883-drop-missing-data/solution.py) | Easy | - | Python |
+| 2884 | [Modify Columns](./LeetCode/Easy/2884-modify-columns/solution.py) | Easy | - | Python |
+| 2885 | [Rename Columns](./LeetCode/Easy/2885-rename-columns/solution.py) | Easy | - | Python |
+| 2886 | [Change Data Type](./LeetCode/Easy/2886-change-data-type/solution.py) | Easy | - | Python |
+| 2887 | [Fill Missing Data](./LeetCode/Easy/2887-fill-missing-data/solution.py) | Easy | - | Python |
+| 2888 | [Reshape Data: Concatenate](./LeetCode/Easy/2888-reshape-data-concatenate/solution.py) | Easy | - | Python |
+| 2889 | [Reshape Data: Pivot](./LeetCode/Easy/2889-reshape-data-pivot/solution.py) | Easy | - | Python |
+| 2890 | [Reshape Data: Melt](./LeetCode/Easy/2890-reshape-data-melt/solution.py) | Easy | - | Python |
+| 2891 | [Method Chaining](./LeetCode/Easy/2891-method-chaining/solution.py) | Easy | - | Python |
 | 3079 | [Find the Sum of Encrypted Integers](./LeetCode/Easy/3079-find-the-sum-of-encrypted-integers/solution.java) | Easy | - | Java |
 | 3081 | [Replace Question Marks in String to Minimize Its Value](./LeetCode/Medium/3081-replace-question-marks-in-string-to-minimize-its-value/solution.java) | Medium | - | Java |
 | 3414 | [Maximum Score of Non-overlapping Intervals](./LeetCode/Hard/3414-maximum-score-of-non-overlapping-intervals/solution.java) | Hard | - | Java |
 | 3483 | [Unique 3-Digit Even Numbers](./LeetCode/Easy/3483-unique-3-digit-even-numbers/solution.java) | Easy | - | Java |
 | 3550 | [Smallest Index With Digit Sum Equal to Index](./LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/solution.java) | Easy | - | Java |
+| 2168392265 | [Maximum Product Pair With Target Sum](./LeetCode/Easy/2168392265-maximum-product-pair-with-target-sum/solution.java) | Easy | - | java |
 
 ---
 Created with ❤️ using [LeetSync](https://github.com/Caktusuki)
