@@ -2,8 +2,6 @@
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-10b981?style=flat-square)
 
-**Topics:** `Array` `Hash Table` `Bit Manipulation` `Sorting`
-
 [View Problem on LeetCode ↗](https://leetcode.com/problems/set-mismatch/)
 
 ## Solutions

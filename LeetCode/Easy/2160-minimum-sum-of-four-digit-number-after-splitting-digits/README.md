@@ -2,8 +2,6 @@
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-10b981?style=flat-square)
 
-**Topics:** `Math` `Greedy` `Sorting`
-
 [View Problem on LeetCode ↗](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/)
 
 ## Solutions

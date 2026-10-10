@@ -2,8 +2,6 @@
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-10b981?style=flat-square)
 
-**Topics:** `Math` `Enumeration` `Number Theory` `Euclidean Algorithm` `Greatest Common Divisor`
-
 [View Problem on LeetCode ↗](https://leetcode.com/problems/number-of-common-factors/)
 
 ## Solutions

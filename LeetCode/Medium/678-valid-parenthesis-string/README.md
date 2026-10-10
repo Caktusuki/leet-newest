@@ -2,8 +2,6 @@
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-f59e0b?style=flat-square)
 
-**Topics:** `String` `Dynamic Programming` `Stack` `Greedy` `Bracket Sequences`
-
 [View Problem on LeetCode ↗](https://leetcode.com/problems/valid-parenthesis-string/)
 
 ## Solutions
