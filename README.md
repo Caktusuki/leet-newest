@@ -2,10 +2,10 @@
 
 Automated repository of accepted LeetCode solutions, managed by **LeetSync**.
 
-[![In Repo](https://img.shields.io/badge/In_Repo-131-6366f1?style=flat-square)](#)
-[![Easy](https://img.shields.io/badge/Easy-94-10b981?style=flat-square)](#)
-[![Medium](https://img.shields.io/badge/Medium-34-f59e0b?style=flat-square)](#)
-[![Hard](https://img.shields.io/badge/Hard-3-f43f5e?style=flat-square)](#)
+[![In Repo](https://img.shields.io/badge/In_Repo-151-6366f1?style=flat-square)](#)
+[![Easy](https://img.shields.io/badge/Easy-111-10b981?style=flat-square)](#)
+[![Medium](https://img.shields.io/badge/Medium-36-f59e0b?style=flat-square)](#)
+[![Hard](https://img.shields.io/badge/Hard-4-f43f5e?style=flat-square)](#)
 
 ## 📚 Problems in this repository
 
@@ -58,8 +58,15 @@ Automated repository of accepted LeetCode solutions, managed by **LeetSync**.
 | 141 | [Linked List Cycle](./LeetCode/Easy/141-linked-list-cycle/solution.java) | Easy | - | Java |
 | 162 | [Find Peak Element](./LeetCode/Medium/162-find-peak-element/solution.java) | Medium | - | Java |
 | 169 | [Majority Element](./LeetCode/Easy/169-majority-element/solution.java) | Easy | - | Java |
+| 175 | [Combine Two Tables](./LeetCode/Easy/175-combine-two-tables/solution.sql) | Easy | - | MySQL |
 | 179 | [Largest Number](./LeetCode/Medium/179-largest-number/solution.java) | Medium | - | Java |
+| 181 | [Employees Earning More Than Their Managers](./LeetCode/Easy/181-employees-earning-more-than-their-managers/solution.sql) | Easy | - | MySQL |
+| 182 | [Duplicate Emails](./LeetCode/Easy/182-duplicate-emails/solution.sql) | Easy | - | MySQL |
+| 183 | [Customers Who Never Order](./LeetCode/Easy/183-customers-who-never-order/solution.sql) | Easy | - | MySQL |
+| 185 | [Department Top Three Salaries](./LeetCode/Hard/185-department-top-three-salaries/solution.sql) | Hard | - | MySQL |
 | 189 | [Rotate Array](./LeetCode/Medium/189-rotate-array/solution.java) | Medium | - | Java |
+| 196 | [Delete Duplicate Emails](./LeetCode/Easy/196-delete-duplicate-emails/solution.sql) | Easy | - | MySQL |
+| 197 | [Rising Temperature](./LeetCode/Easy/197-rising-temperature/solution.sql) | Easy | - | MySQL |
 | 202 | [Happy Number](./LeetCode/Easy/202-happy-number/solution.java) | Easy | - | Java |
 | 203 | [Remove Linked List Elements](./LeetCode/Easy/203-remove-linked-list-elements/solution.java) | Easy | - | Java |
 | 206 | [Reverse Linked List](./LeetCode/Easy/206-reverse-linked-list/solution.java) | Easy | - | Java |
@@ -92,7 +99,14 @@ Automated repository of accepted LeetCode solutions, managed by **LeetSync**.
 | 506 | [Relative Ranks](./LeetCode/Easy/506-relative-ranks/solution.java) | Easy | - | Java |
 | 511 | [Game Play Analysis I](./LeetCode/Easy/511-game-play-analysis-i/solution.sql) | Easy | - | SQL |
 | 541 | [Reverse String II](./LeetCode/Easy/541-reverse-string-ii/solution.java) | Easy | - | Java |
+| 570 | [Managers with at Least 5 Direct Reports](./LeetCode/Medium/570-managers-with-at-least-5-direct-reports/solution.sql) | Medium | - | MySQL |
 | 575 | [Distribute Candies](./LeetCode/Easy/575-distribute-candies/solution.java) | Easy | - | Java |
+| 577 | [Employee Bonus](./LeetCode/Easy/577-employee-bonus/solution.sql) | Easy | - | MySQL |
+| 584 | [Find Customer Referee](./LeetCode/Easy/584-find-customer-referee/solution.sql) | Easy | - | MySQL |
+| 586 | [Customer Placing the Largest Number of Orders](./LeetCode/Easy/586-customer-placing-the-largest-number-of-orders/solution.sql) | Easy | - | MySQL |
+| 595 | [Big Countries](./LeetCode/Easy/595-big-countries/solution.sql) | Easy | - | MySQL |
+| 596 | [Classes With at Least 5 Students](./LeetCode/Easy/596-classes-with-at-least-5-students/solution.sql) | Easy | - | MySQL |
+| 607 | [Sales Person](./LeetCode/Easy/607-sales-person/solution.sql) | Easy | - | MySQL |
 | 608 | [Tree Node](./LeetCode/Medium/608-tree-node/solution.sql) | Medium | - | SQL |
 | 610 | [Triangle Judgement](./LeetCode/Easy/610-triangle-judgement/solution.sql) | Easy | - | SQL |
 | 619 | [Biggest Single Number](./LeetCode/Easy/619-biggest-single-number/solution.sql) | Easy | - | SQL |
@@ -134,6 +148,7 @@ Automated repository of accepted LeetCode solutions, managed by **LeetSync**.
 | 1683 | [Invalid Tweets](./LeetCode/Easy/1683-invalid-tweets/solution.sql) | Easy | - | SQL |
 | 1757 | [Recyclable and Low Fat Products](./LeetCode/Easy/1757-recyclable-and-low-fat-products/solution.sql) | Easy | - | SQL |
 | 1822 | [Sign of the Product of an Array](./LeetCode/Easy/1822-sign-of-the-product-of-an-array/solution.java) | Easy | - | Java |
+| 1934 | [Confirmation Rate](./LeetCode/Medium/1934-confirmation-rate/solution.sql) | Medium | - | MySQL |
 | 1952 | [Three Divisors](./LeetCode/Easy/1952-three-divisors/solution.java) | Easy | - | Java |
 | 2149 | [Rearrange Array Elements by Sign](./LeetCode/Medium/2149-rearrange-array-elements-by-sign/solution.java) | Medium | - | Java |
 | 2160 | [Minimum Sum of Four Digit Number After Splitting Digits](./LeetCode/Easy/2160-minimum-sum-of-four-digit-number-after-splitting-digits/solution.java) | Easy | - | Java |
@@ -141,7 +156,12 @@ Automated repository of accepted LeetCode solutions, managed by **LeetSync**.
 | 2413 | [Smallest Even Multiple](./LeetCode/Easy/2413-smallest-even-multiple/solution.java) | Easy | - | Java |
 | 2427 | [Number of Common Factors](./LeetCode/Easy/2427-number-of-common-factors/solution.java) | Easy | - | Java |
 | 2574 | [Left and Right Sum Differences](./LeetCode/Easy/2574-left-and-right-sum-differences/solution.java) | Easy | - | Java |
+| 2619 | [Array Prototype Last](./LeetCode/Easy/2619-array-prototype-last/solution.js) | Easy | - | JavaScript |
+| 2620 | [Counter](./LeetCode/Easy/2620-counter/solution.js) | Easy | - | JavaScript |
+| 2621 | [Sleep](./LeetCode/Easy/2621-sleep/solution.js) | Easy | - | JavaScript |
 | 2652 | [Sum Multiples](./LeetCode/Easy/2652-sum-multiples/solution.java) | Easy | - | Java |
+| 2667 | [Create Hello World Function](./LeetCode/Easy/2667-create-hello-world-function/solution.js) | Easy | - | JavaScript |
+| 2878 | [Get the Size of a DataFrame](./LeetCode/Easy/2878-get-the-size-of-a-dataframe/solution.py) | Easy | - | pythondata |
 
 ---
 Created with ❤️ using [LeetSync](https://github.com/Caktusuki)

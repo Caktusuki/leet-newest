@@ -2,8 +2,6 @@
 
 ![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-f43f5e?style=flat-square)
 
-**Topics:** `Database`
-
 [View Problem on LeetCode ↗](https://leetcode.com/problems/department-top-three-salaries/)
 
 ## Solutions
