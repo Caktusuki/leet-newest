@@ -2,8 +2,6 @@
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-10b981?style=flat-square)
 
-**Topics:** `Array` `Hash Table` `Sliding Window`
-
 [View Problem on LeetCode ↗](https://leetcode.com/problems/contains-duplicate-ii/)
 
 ## Solutions

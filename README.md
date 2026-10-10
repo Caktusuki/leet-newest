@@ -2,9 +2,9 @@
 
 Automated repository of accepted LeetCode solutions, managed by **LeetSync**.
 
-[![In Repo](https://img.shields.io/badge/In_Repo-151-6366f1?style=flat-square)](#)
-[![Easy](https://img.shields.io/badge/Easy-116-10b981?style=flat-square)](#)
-[![Medium](https://img.shields.io/badge/Medium-30-f59e0b?style=flat-square)](#)
+[![In Repo](https://img.shields.io/badge/In_Repo-171-6366f1?style=flat-square)](#)
+[![Easy](https://img.shields.io/badge/Easy-129-10b981?style=flat-square)](#)
+[![Medium](https://img.shields.io/badge/Medium-37-f59e0b?style=flat-square)](#)
 [![Hard](https://img.shields.io/badge/Hard-5-f43f5e?style=flat-square)](#)
 
 ## 📚 Problems in this repository
@@ -51,13 +51,33 @@ Automated repository of accepted LeetCode solutions, managed by **LeetSync**.
 | 88 | [Merge Sorted Array](./LeetCode/Easy/88-merge-sorted-array/solution.java) | Easy | - | Java |
 | 118 | [Pascal's Triangle](./LeetCode/Easy/118-pascals-triangle/solution.java) | Easy | - | Java |
 | 119 | [Pascal's Triangle II](./LeetCode/Easy/119-pascals-triangle-ii/solution.java) | Easy | - | Java |
+| 125 | [Valid Palindrome](./LeetCode/Easy/125-valid-palindrome/solution.java) | Easy | - | Java |
+| 134 | [Gas Station](./LeetCode/Medium/134-gas-station/solution.java) | Medium | - | Java |
+| 136 | [Single Number](./LeetCode/Easy/136-single-number/solution.java) | Easy | - | Java |
+| 137 | [Single Number II](./LeetCode/Medium/137-single-number-ii/solution.java) | Medium | - | Java |
+| 141 | [Linked List Cycle](./LeetCode/Easy/141-linked-list-cycle/solution.java) | Easy | - | Java |
+| 162 | [Find Peak Element](./LeetCode/Medium/162-find-peak-element/solution.java) | Medium | - | Java |
+| 169 | [Majority Element](./LeetCode/Easy/169-majority-element/solution.java) | Easy | - | Java |
 | 175 | [Combine Two Tables](./LeetCode/Easy/175-combine-two-tables/solution.sql) | Easy | - | MySQL |
+| 179 | [Largest Number](./LeetCode/Medium/179-largest-number/solution.java) | Medium | - | Java |
 | 181 | [Employees Earning More Than Their Managers](./LeetCode/Easy/181-employees-earning-more-than-their-managers/solution.sql) | Easy | - | MySQL |
 | 182 | [Duplicate Emails](./LeetCode/Easy/182-duplicate-emails/solution.sql) | Easy | - | MySQL |
 | 183 | [Customers Who Never Order](./LeetCode/Easy/183-customers-who-never-order/solution.sql) | Easy | - | MySQL |
 | 185 | [Department Top Three Salaries](./LeetCode/Hard/185-department-top-three-salaries/solution.sql) | Hard | - | MySQL |
+| 189 | [Rotate Array](./LeetCode/Medium/189-rotate-array/solution.java) | Medium | - | Java |
 | 196 | [Delete Duplicate Emails](./LeetCode/Easy/196-delete-duplicate-emails/solution.sql) | Easy | - | MySQL |
 | 197 | [Rising Temperature](./LeetCode/Easy/197-rising-temperature/solution.sql) | Easy | - | MySQL |
+| 202 | [Happy Number](./LeetCode/Easy/202-happy-number/solution.java) | Easy | - | Java |
+| 203 | [Remove Linked List Elements](./LeetCode/Easy/203-remove-linked-list-elements/solution.java) | Easy | - | Java |
+| 206 | [Reverse Linked List](./LeetCode/Easy/206-reverse-linked-list/solution.java) | Easy | - | Java |
+| 217 | [Contains Duplicate](./LeetCode/Easy/217-contains-duplicate/solution.java) | Easy | - | Java |
+| 219 | [Contains Duplicate II](./LeetCode/Easy/219-contains-duplicate-ii/solution.java) | Easy | - | Java |
+| 231 | [Power of Two](./LeetCode/Easy/231-power-of-two/solution.java) | Easy | - | Java |
+| 234 | [Palindrome Linked List](./LeetCode/Easy/234-palindrome-linked-list/solution.java) | Easy | - | Java |
+| 238 | [Product of Array Except Self](./LeetCode/Medium/238-product-of-array-except-self/solution.java) | Medium | - | Java |
+| 242 | [Valid Anagram](./LeetCode/Easy/242-valid-anagram/solution.java) | Easy | - | Java |
+| 258 | [Add Digits](./LeetCode/Easy/258-add-digits/solution.java) | Easy | - | Java |
+| 260 | [Single Number III](./LeetCode/Medium/260-single-number-iii/solution.java) | Medium | - | Java |
 | 268 | [Missing Number](./LeetCode/Easy/268-missing-number/solution.java) | Easy | - | Java |
 | 278 | [First Bad Version](./LeetCode/Easy/278-first-bad-version/solution.java) | Easy | - | Java |
 | 283 | [Move Zeroes](./LeetCode/Easy/283-move-zeroes/solution.java) | Easy | - | Java |

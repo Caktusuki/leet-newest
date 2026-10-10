@@ -2,8 +2,6 @@
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-f59e0b?style=flat-square)
 
-**Topics:** `Array` `Prefix Sum`
-
 [View Problem on LeetCode ↗](https://leetcode.com/problems/product-of-array-except-self/)
 
 ## Solutions

@@ -2,8 +2,6 @@
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-f59e0b?style=flat-square)
 
-**Topics:** `Array` `String` `Greedy` `Sorting`
-
 [View Problem on LeetCode ↗](https://leetcode.com/problems/largest-number/)
 
 ## Solutions
