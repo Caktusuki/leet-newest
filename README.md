@@ -2,10 +2,10 @@
 
 Automated repository of accepted LeetCode solutions, managed by **LeetSync**.
 
-[![In Repo](https://img.shields.io/badge/In_Repo-111-6366f1?style=flat-square)](#)
-[![Easy](https://img.shields.io/badge/Easy-75-10b981?style=flat-square)](#)
-[![Medium](https://img.shields.io/badge/Medium-33-f59e0b?style=flat-square)](#)
-[![Hard](https://img.shields.io/badge/Hard-3-f43f5e?style=flat-square)](#)
+[![In Repo](https://img.shields.io/badge/In_Repo-131-6366f1?style=flat-square)](#)
+[![Easy](https://img.shields.io/badge/Easy-91-10b981?style=flat-square)](#)
+[![Medium](https://img.shields.io/badge/Medium-35-f59e0b?style=flat-square)](#)
+[![Hard](https://img.shields.io/badge/Hard-5-f43f5e?style=flat-square)](#)
 
 ## 📚 Problems in this repository
 
@@ -58,8 +58,15 @@ Automated repository of accepted LeetCode solutions, managed by **LeetSync**.
 | 141 | [Linked List Cycle](./LeetCode/Easy/141-linked-list-cycle/solution.java) | Easy | - | Java |
 | 162 | [Find Peak Element](./LeetCode/Medium/162-find-peak-element/solution.java) | Medium | - | Java |
 | 169 | [Majority Element](./LeetCode/Easy/169-majority-element/solution.java) | Easy | - | Java |
+| 175 | [Combine Two Tables](./LeetCode/Easy/175-combine-two-tables/solution.sql) | Easy | - | SQL |
 | 179 | [Largest Number](./LeetCode/Medium/179-largest-number/solution.java) | Medium | - | Java |
+| 181 | [Employees Earning More Than Their Managers](./LeetCode/Easy/181-employees-earning-more-than-their-managers/solution.sql) | Easy | - | SQL |
+| 182 | [Duplicate Emails](./LeetCode/Easy/182-duplicate-emails/solution.sql) | Easy | - | SQL |
+| 183 | [Customers Who Never Order](./LeetCode/Easy/183-customers-who-never-order/solution.sql) | Easy | - | SQL |
+| 185 | [Department Top Three Salaries](./LeetCode/Hard/185-department-top-three-salaries/solution.sql) | Hard | - | SQL |
 | 189 | [Rotate Array](./LeetCode/Medium/189-rotate-array/solution.java) | Medium | - | Java |
+| 196 | [Delete Duplicate Emails](./LeetCode/Easy/196-delete-duplicate-emails/solution.sql) | Easy | - | SQL |
+| 197 | [Rising Temperature](./LeetCode/Easy/197-rising-temperature/solution.sql) | Easy | - | SQL |
 | 202 | [Happy Number](./LeetCode/Easy/202-happy-number/solution.java) | Easy | - | Java |
 | 203 | [Remove Linked List Elements](./LeetCode/Easy/203-remove-linked-list-elements/solution.java) | Easy | - | Java |
 | 206 | [Reverse Linked List](./LeetCode/Easy/206-reverse-linked-list/solution.java) | Easy | - | Java |
@@ -91,7 +98,14 @@ Automated repository of accepted LeetCode solutions, managed by **LeetSync**.
 | 496 | [Next Greater Element I](./LeetCode/Easy/496-next-greater-element-i/solution.java) | Easy | - | Java |
 | 506 | [Relative Ranks](./LeetCode/Easy/506-relative-ranks/solution.java) | Easy | - | Java |
 | 541 | [Reverse String II](./LeetCode/Easy/541-reverse-string-ii/solution.java) | Easy | - | Java |
+| 570 | [Managers with at Least 5 Direct Reports](./LeetCode/Medium/570-managers-with-at-least-5-direct-reports/solution.sql) | Medium | - | SQL |
 | 575 | [Distribute Candies](./LeetCode/Easy/575-distribute-candies/solution.java) | Easy | - | Java |
+| 577 | [Employee Bonus](./LeetCode/Easy/577-employee-bonus/solution.sql) | Easy | - | SQL |
+| 584 | [Find Customer Referee](./LeetCode/Easy/584-find-customer-referee/solution.sql) | Easy | - | SQL |
+| 586 | [Customer Placing the Largest Number of Orders](./LeetCode/Easy/586-customer-placing-the-largest-number-of-orders/solution.sql) | Easy | - | SQL |
+| 595 | [Big Countries](./LeetCode/Easy/595-big-countries/solution.sql) | Easy | - | SQL |
+| 596 | [Classes With at Least 5 Students](./LeetCode/Easy/596-classes-with-at-least-5-students/solution.sql) | Easy | - | SQL |
+| 607 | [Sales Person](./LeetCode/Easy/607-sales-person/solution.sql) | Easy | - | SQL |
 | 628 | [Maximum Product of Three Numbers](./LeetCode/Easy/628-maximum-product-of-three-numbers/solution.java) | Easy | - | Java |
 | 645 | [Set Mismatch](./LeetCode/Easy/645-set-mismatch/solution.java) | Easy | - | Java |
 | 678 | [Valid Parenthesis String](./LeetCode/Medium/678-valid-parenthesis-string/solution.java) | Medium | - | Java |
@@ -122,6 +136,12 @@ Automated repository of accepted LeetCode solutions, managed by **LeetSync**.
 | 2427 | [Number of Common Factors](./LeetCode/Easy/2427-number-of-common-factors/solution.java) | Easy | - | Java |
 | 2574 | [Left and Right Sum Differences](./LeetCode/Easy/2574-left-and-right-sum-differences/solution.java) | Easy | - | Java |
 | 2652 | [Sum Multiples](./LeetCode/Easy/2652-sum-multiples/solution.java) | Easy | - | Java |
+| 2839 | [Check if Strings Can be Made Equal With Operations I](./LeetCode/Easy/2839-check-if-strings-can-be-made-equal-with-operations-i/solution.java) | Easy | - | Java |
+| 3079 | [Find the Sum of Encrypted Integers](./LeetCode/Easy/3079-find-the-sum-of-encrypted-integers/solution.java) | Easy | - | Java |
+| 3081 | [Replace Question Marks in String to Minimize Its Value](./LeetCode/Medium/3081-replace-question-marks-in-string-to-minimize-its-value/solution.java) | Medium | - | Java |
+| 3414 | [Maximum Score of Non-overlapping Intervals](./LeetCode/Hard/3414-maximum-score-of-non-overlapping-intervals/solution.java) | Hard | - | Java |
+| 3483 | [Unique 3-Digit Even Numbers](./LeetCode/Easy/3483-unique-3-digit-even-numbers/solution.java) | Easy | - | Java |
+| 3550 | [Smallest Index With Digit Sum Equal to Index](./LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/solution.java) | Easy | - | Java |
 
 ---
 Created with ❤️ using [LeetSync](https://github.com/Caktusuki)
